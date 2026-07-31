@@ -11,6 +11,9 @@
   <a href="https://mobiza.com.tr">
     <img src="https://img.shields.io/badge/Mobiza-Founder-2563EB?style=for-the-badge&logo=rocket&logoColor=white" alt="Mobiza">
   </a>
+  <a href="https://www.linkedin.com/in/enesbabekoglu">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://www.enesbabekoglu.com.tr">
     <img src="https://img.shields.io/badge/Website-Visit-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
@@ -32,20 +35,20 @@ Rather than focusing only on individual features, I work across the complete pro
 
 ```text
 Idea → Product Design → Architecture → Development → Deployment → Growth
-````
+```
 
 ---
 
 ## What I Do
 
-* Build mobile applications with Flutter and Dart
-* Develop mobile games and interactive experiences
-* Design scalable backend systems and REST APIs
-* Create modern web platforms and administration panels
-* Model databases, caching layers and business processes
-* Integrate analytics, advertising, payments and live operations
-* Build AI-assisted products, automation systems and internal tools
-* Improve application performance, security and scalability
+- Build mobile applications with Flutter and Dart
+- Develop mobile games and interactive experiences
+- Design scalable backend systems and REST APIs
+- Create modern web platforms and administration panels
+- Model databases, caching layers and business processes
+- Integrate analytics, advertising, payments and live operations
+- Build AI-assisted products, automation systems and internal tools
+- Improve application performance, security and scalability
 
 ---
 
@@ -54,7 +57,18 @@ Idea → Product Design → Architecture → Development → Deployment → Grow
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Bistro Bounce</h3>
+      <p align="center">
+        <a href="https://bistrobounce.com">
+          <img
+            src="https://mobizagames.com/assets/bistro-bounce-icon-660.webp"
+            width="112"
+            height="112"
+            alt="Bistro Bounce"
+          >
+        </a>
+      </p>
+      <h3 align="center">Bistro Bounce</h3>
+      <p align="center"><em>Merge, bounce and serve.</em></p>
       <p>
         A fast-paced casual mobile merge game where players combine items,
         complete orders and progress through different regions.
@@ -64,12 +78,31 @@ Idea → Product Design → Architecture → Development → Deployment → Grow
         Gameplay systems, level generation, progression, live operations,
         advertising, in-app purchases, analytics and administration tools.
       </p>
-      <a href="https://bistrobounce.com">
-        <img src="https://img.shields.io/badge/Explore-Bistro%20Bounce-F59E0B?style=flat-square" alt="Bistro Bounce">
-      </a>
+      <p align="center">
+        <a href="https://bistrobounce.com">
+          <img src="https://img.shields.io/badge/Website-Explore-F59E0B?style=flat-square&logo=googlechrome&logoColor=white" alt="Bistro Bounce Website">
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.mobiza.bistrobounce">
+          <img src="https://img.shields.io/badge/Google_Play-Get_it-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Bistro Bounce on Google Play">
+        </a>
+        <a href="https://apps.apple.com/app/id6770082521">
+          <img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="Bistro Bounce on the App Store">
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Sim of World</h3>
+      <p align="center">
+        <a href="https://pre.simofworld.com">
+          <img
+            src="https://mobizagames.com/assets/sim-of-world-icon-660.webp"
+            width="112"
+            height="112"
+            alt="Sim of World"
+          >
+        </a>
+      </p>
+      <h3 align="center">Sim of World</h3>
+      <p align="center"><em>Build, trade, govern and shape the world.</em></p>
       <p>
         A persistent social, economic and political simulation game built
         around player-driven cities, companies, markets and governments.
@@ -79,13 +112,21 @@ Idea → Product Design → Architecture → Development → Deployment → Grow
         Flutter, social systems, player economy, marketplaces, communication,
         administration, performance and scalable backend architecture.
       </p>
-      <a href="https://pre.simofworld.com">
-        <img src="https://img.shields.io/badge/Explore-Sim%20of%20World-2563EB?style=flat-square" alt="Sim of World">
-      </a>
+      <p align="center">
+        <a href="https://pre.simofworld.com">
+          <img src="https://img.shields.io/badge/Website-Explore-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Sim of World Website">
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.mobiza.simofworld">
+          <img src="https://img.shields.io/badge/Google_Play-Get_it-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Sim of World on Google Play">
+        </a>
+        <a href="https://apps.apple.com/app/id1668551261">
+          <img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="Sim of World on the App Store">
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>MenuFly</h3>
       <p>
         A QR menu and restaurant management platform for cafés,
@@ -96,10 +137,12 @@ Idea → Product Design → Architecture → Development → Deployment → Grow
         SaaS architecture, multi-language menus, multi-currency support,
         restaurant operations, QR experiences, analytics and AI tools.
       </p>
+      <a href="https://menufly.com.tr">
+        <img src="https://img.shields.io/badge/Explore-MenuFly-16A34A?style=flat-square&logo=googlechrome&logoColor=white" alt="MenuFly">
+      </a>
     </td>
   </tr>
 </table>
-
 ---
 
 ## Technology Stack
@@ -141,12 +184,12 @@ Security                    Live Operations
 
 ## Currently Building
 
-* Preparing **Bistro Bounce** for its global mobile release
-* Developing the next generation of **Sim of World**
-* Expanding Mobiza's mobile game and software ecosystem
-* Building reusable infrastructure for games and SaaS products
-* Researching AI agents, RAG systems and development automation
-* Improving application performance, security and deployment processes
+- Preparing **Bistro Bounce** for its global mobile release
+- Developing the next generation of **Sim of World**
+- Expanding Mobiza's mobile game and software ecosystem
+- Building reusable infrastructure for games and SaaS products
+- Researching AI agents, RAG systems and development automation
+- Improving application performance, security and deployment processes
 
 ---
 
@@ -173,7 +216,7 @@ Security                    Live Operations
   >
 </p>
 
-> Most of my active commercial products are developed in private repositories.
+> Most of my active commercial products are developed in private repositories.  
 > Public repositories and contribution statistics represent only part of my work.
 
 ---
@@ -184,14 +227,14 @@ I believe high-quality software requires more than writing code.
 
 My development approach focuses on:
 
-* Clear product and business requirements
-* Maintainable and modular architecture
-* Reliable backend and database design
-* Performance across different devices
-* Security and data protection
-* Consistent, product-specific user experiences
-* Testing, monitoring and continuous improvement
-* Building systems that remain manageable as they grow
+- Clear product and business requirements
+- Maintainable and modular architecture
+- Reliable backend and database design
+- Performance across different devices
+- Security and data protection
+- Consistent, product-specific user experiences
+- Testing, monitoring and continuous improvement
+- Building systems that remain manageable as they grow
 
 ---
 
@@ -203,11 +246,17 @@ For partnerships, product development and professional inquiries:
   <a href="mailto:enesbabekoglu@mobiza.com.tr">
     <img src="https://img.shields.io/badge/Email-enesbabekoglu%40mobiza.com.tr-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://www.linkedin.com/in/enesbabekoglu">
+    <img src="https://img.shields.io/badge/LinkedIn-enesbabekoglu-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://mobiza.com.tr">
     <img src="https://img.shields.io/badge/Company-mobiza.com.tr-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="Mobiza">
   </a>
   <a href="https://www.enesbabekoglu.com.tr">
     <img src="https://img.shields.io/badge/Personal%20Website-enesbabekoglu.com.tr-334155?style=flat-square&logo=googlechrome&logoColor=white" alt="Personal Website">
+  </a>
+  <a href="https://menufly.com.tr">
+    <img src="https://img.shields.io/badge/Product-menufly.com.tr-16A34A?style=flat-square&logo=googlechrome&logoColor=white" alt="MenuFly">
   </a>
 </p>
 
@@ -218,6 +267,6 @@ For partnerships, product development and professional inquiries:
 </p>
 
 <img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,50:1E3A8A,100:2563EB"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,50:1E3A8A,100:2563EB"
 />
