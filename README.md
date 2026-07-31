@@ -63,99 +63,162 @@ Idea → Product Design → Architecture → Development → Deployment → Grow
 
 <table>
   <tr>
-    <td width="140" align="center" valign="top">
+    <td width="120" valign="top" align="center">
       <a href="https://bistrobounce.com">
-        <img src="https://mobizagames.com/assets/bistro-bounce-icon-660.webp" width="112" height="112" alt="Bistro Bounce">
+        <img
+          src="https://mobizagames.com/assets/bistro-bounce-icon-660.webp"
+          width="96"
+          alt="Bistro Bounce"
+        >
       </a>
     </td>
     <td valign="top">
-      <h3>Bistro Bounce</h3>
+      <table width="100%">
+        <tr>
+          <td align="left" valign="middle">
+            <h3>Bistro Bounce</h3>
+          </td>
+          <td align="right" valign="middle">
+            <a href="https://bistrobounce.com">
+              <img src="https://cdn.simpleicons.org/googlechrome/2563EB" width="18" alt="Website">
+            </a>
+            &nbsp;
+            <a href="https://play.google.com/store/apps/details?id=com.mobiza.bistrobounce">
+              <img src="https://cdn.simpleicons.org/googleplay/34A853" width="18" alt="Google Play">
+            </a>
+            &nbsp;
+            <a href="https://apps.apple.com/app/id6770082521">
+              <img src="https://cdn.simpleicons.org/appstore/0D96F6" width="18" alt="App Store">
+            </a>
+          </td>
+        </tr>
+      </table>
+
       <p><em>Merge, bounce and serve.</em></p>
+
       <p>
         A fast-paced casual mobile merge game where players combine items,
         complete orders and progress through different regions.
       </p>
+
       <p>
         <strong>Development areas:</strong>
         Gameplay systems, level generation, progression, live operations,
         advertising, in-app purchases, analytics and administration tools.
       </p>
+
       <p>
-        <a href="https://bistrobounce.com">
-          <img src="https://cdn.simpleicons.org/googlechrome/2563EB" width="16" alt="Website"> Website
-        </a>
-        &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="https://play.google.com/store/apps/details?id=com.mobiza.bistrobounce">
-          <img src="https://cdn.simpleicons.org/googleplay/34A853" width="16" alt="Google Play"> Google Play
-        </a>
-        &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="https://apps.apple.com/app/id6770082521">
-          <img src="https://cdn.simpleicons.org/appstore/0D96F6" width="16" alt="App Store"> App Store
-        </a>
+        <a href="https://bistrobounce.com">Website</a>
+        &nbsp;·&nbsp;
+        <a href="https://play.google.com/store/apps/details?id=com.mobiza.bistrobounce">Google Play</a>
+        &nbsp;·&nbsp;
+        <a href="https://apps.apple.com/app/id6770082521">App Store</a>
       </p>
     </td>
   </tr>
 </table>
 
+<br>
+
 <table>
   <tr>
-    <td width="140" align="center" valign="top">
+    <td width="120" valign="top" align="center">
       <a href="https://pre.simofworld.com">
-        <img src="https://mobizagames.com/assets/sim-of-world-icon-660.webp" width="112" height="112" alt="Sim of World">
+        <img
+          src="https://mobizagames.com/assets/sim-of-world-icon-660.webp"
+          width="96"
+          alt="Sim of World"
+        >
       </a>
     </td>
     <td valign="top">
-      <h3>Sim of World</h3>
+      <table width="100%">
+        <tr>
+          <td align="left" valign="middle">
+            <h3>Sim of World</h3>
+          </td>
+          <td align="right" valign="middle">
+            <a href="https://pre.simofworld.com">
+              <img src="https://cdn.simpleicons.org/googlechrome/2563EB" width="18" alt="Website">
+            </a>
+            &nbsp;
+            <a href="https://play.google.com/store/apps/details?id=com.mobiza.simofworld">
+              <img src="https://cdn.simpleicons.org/googleplay/34A853" width="18" alt="Google Play">
+            </a>
+            &nbsp;
+            <a href="https://apps.apple.com/app/id1668551261">
+              <img src="https://cdn.simpleicons.org/appstore/0D96F6" width="18" alt="App Store">
+            </a>
+          </td>
+        </tr>
+      </table>
+
       <p><em>Build, trade, govern and shape the world.</em></p>
+
       <p>
         A persistent social, economic and political simulation game built
         around player-driven cities, companies, markets and governments.
       </p>
+
       <p>
         <strong>Development areas:</strong>
         Flutter, social systems, player economy, marketplaces, communication,
         administration, performance and scalable backend architecture.
       </p>
+
       <p>
-        <a href="https://pre.simofworld.com">
-          <img src="https://cdn.simpleicons.org/googlechrome/2563EB" width="16" alt="Website"> Website
-        </a>
-        &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="https://play.google.com/store/apps/details?id=com.mobiza.simofworld">
-          <img src="https://cdn.simpleicons.org/googleplay/34A853" width="16" alt="Google Play"> Google Play
-        </a>
-        &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="https://apps.apple.com/app/id1668551261">
-          <img src="https://cdn.simpleicons.org/appstore/0D96F6" width="16" alt="App Store"> App Store
-        </a>
+        <a href="https://pre.simofworld.com">Website</a>
+        &nbsp;·&nbsp;
+        <a href="https://play.google.com/store/apps/details?id=com.mobiza.simofworld">Google Play</a>
+        &nbsp;·&nbsp;
+        <a href="https://apps.apple.com/app/id1668551261">App Store</a>
       </p>
     </td>
   </tr>
 </table>
 
+<br>
+
 <table>
   <tr>
-    <td width="140" align="center" valign="top">
+    <td width="120" valign="top" align="center">
       <a href="https://menufly.com.tr">
-        <img src="https://mobiza.com.tr/assets/logo-menufly-400.webp" width="112" alt="MenuFly">
+        <img
+          src="https://mobiza.com.tr/assets/logo-menufly-400.webp"
+          width="96"
+          alt="MenuFly"
+        >
       </a>
     </td>
     <td valign="top">
-      <h3>MenuFly</h3>
+      <table width="100%">
+        <tr>
+          <td align="left" valign="middle">
+            <h3>MenuFly</h3>
+          </td>
+          <td align="right" valign="middle">
+            <a href="https://menufly.com.tr">
+              <img src="https://cdn.simpleicons.org/googlechrome/16A34A" width="18" alt="Website">
+            </a>
+          </td>
+        </tr>
+      </table>
+
       <p><em>QR menus and restaurant operations, simplified.</em></p>
+
       <p>
         A QR menu and restaurant management platform for cafés,
         restaurants and multi-branch businesses.
       </p>
+
       <p>
         <strong>Development areas:</strong>
         SaaS architecture, multi-language menus, multi-currency support,
         restaurant operations, QR experiences, analytics and AI tools.
       </p>
+
       <p>
-        <a href="https://menufly.com.tr">
-          <img src="https://cdn.simpleicons.org/googlechrome/16A34A" width="16" alt="Website"> Website
-        </a>
+        <a href="https://menufly.com.tr">Website</a>
       </p>
     </td>
   </tr>
