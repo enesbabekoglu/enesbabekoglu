@@ -57,7 +57,7 @@ Mobile games are developed and published under [**Mobiza Games**](https://mobiza
 
 <table width="100%" cellpadding="16" cellspacing="0">
   <tr>
-    <td width="144" align="center" valign="top">
+    <td width="144" align="center" valign="middle">
       <a href="https://bistrobounce.com">
         <img
           src="https://mobizagames.com/assets/bistro-bounce-icon-660.webp"
@@ -67,7 +67,7 @@ Mobile games are developed and published under [**Mobiza Games**](https://mobiza
         >
       </a>
     </td>
-    <td valign="top">
+    <td valign="middle">
       <h3>Bistro Bounce</h3>
       <p><em>Merge, bounce and serve.</em></p>
       <p>
@@ -100,7 +100,7 @@ Mobile games are developed and published under [**Mobiza Games**](https://mobiza
 
 <table width="100%" cellpadding="16" cellspacing="0">
   <tr>
-    <td width="144" align="center" valign="top">
+    <td width="144" align="center" valign="middle">
       <a href="https://pre.simofworld.com">
         <img
           src="https://mobizagames.com/assets/sim-of-world-icon-660.webp"
@@ -110,7 +110,7 @@ Mobile games are developed and published under [**Mobiza Games**](https://mobiza
         >
       </a>
     </td>
-    <td valign="top">
+    <td valign="middle">
       <h3>Sim of World</h3>
       <p><em>Build, trade, govern and shape the world.</em></p>
       <p>
@@ -143,7 +143,7 @@ Mobile games are developed and published under [**Mobiza Games**](https://mobiza
 
 <table width="100%" cellpadding="16" cellspacing="0">
   <tr>
-    <td width="144" align="center" valign="top">
+    <td width="144" align="center" valign="middle">
       <a href="https://menufly.com.tr">
         <img
           src="https://mobiza.com.tr/assets/logo-menufly-400.webp"
@@ -152,7 +152,7 @@ Mobile games are developed and published under [**Mobiza Games**](https://mobiza
         >
       </a>
     </td>
-    <td valign="top">
+    <td valign="middle">
       <h3>MenuFly</h3>
       <p><em>QR menus and restaurant operations, simplified.</em></p>
       <p>
@@ -331,20 +331,7 @@ Security                    Live Operations
 
 <p align="center">
   <img
-    width="98%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enesbabekoglu&theme=github"
-    alt="Enes Babekoğlu GitHub profile details"
-  >
-</p>
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enesbabekoglu&theme=github"
-    alt="Enes Babekoğlu GitHub statistics"
-  >
-  <img
-    width="49%"
+    width="60%"
     src="https://github-readme-streak-stats.herokuapp.com?user=enesbabekoglu&hide_border=true&background=00000000&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=64748B&dates=94A3B8"
     alt="Enes Babekoğlu GitHub streak"
   >
