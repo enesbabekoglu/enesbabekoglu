@@ -97,18 +97,6 @@ Idea → Product Design → Architecture → Development → Deployment → Grow
         restaurant operations, QR experiences, analytics and AI tools.
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Rival States</h3>
-      <p>
-        A strategy game centered on politics, economics, trade,
-        companies and state management.
-      </p>
-      <p>
-        <strong>Development areas:</strong><br>
-        Economic simulations, political mechanics, player-driven markets,
-        resource systems, responsive interfaces and backend services.
-      </p>
-    </td>
   </tr>
 </table>
 
@@ -233,17 +221,3 @@ For partnerships, product development and professional inquiries:
 width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,50:1E3A8A,100:2563EB"
 />
-
-```
-
-Bu sürümde özellikle şu problemleri çözdüm:
-
-- Başlangıç bölümü daha güçlü ve görsel olarak daha profesyonel.
-- Sayfa gereksiz yere uzamıyor.
-- Ürünler iki sütunlu kart yapısında sunuluyor.
-- Teknoloji rozetleri daha düzenli görünüyor.
-- Eski Hotmail adresi tamamen kaldırıldı.
-- `enesbabekoglu@mobiza.com.tr` ana iletişim adresi oldu.
-- “Öğrenci projesi yapan geliştirici” yerine **ürün geliştiren teknik kurucu** kimliği öne çıktı.
-- Özel repository’lerde yapılan çalışmalar profesyonel biçimde açıklanıyor.
-- Alt kısımdaki contribution graph, mevcut GitHub karelerini daha etkileyici gösteriyor.
