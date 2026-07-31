@@ -177,25 +177,129 @@ Mobile games are developed and published under [**Mobiza Games**](https://mobiza
 
 ## Technology Stack
 
-<p align="center">
+### Mobile & Game Development
+
+<p align="left">
   <img
-    src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,html,css,php,laravel,nodejs,python,unity,cs,mysql,redis,docker,linux,git,github&perline=10"
-    alt="Technology Stack"
+    src="https://skillicons.dev/icons?i=flutter,dart,unity,cs,androidstudio&theme=light"
+    alt="Mobile and game development technologies"
   >
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Flame-FF6D00?style=flat-square&logo=flutter&logoColor=white" alt="Flame">
+  <img src="https://img.shields.io/badge/Forge2D-Physics_Engine-7C3AED?style=flat-square" alt="Forge2D">
+  <img src="https://img.shields.io/badge/Riverpod-State_Management-0EA5E9?style=flat-square&logo=flutter&logoColor=white" alt="Riverpod">
+  <img src="https://img.shields.io/badge/GoRouter-Navigation-2563EB?style=flat-square&logo=flutter&logoColor=white" alt="GoRouter">
+</p>
+
+### Frontend Development
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite&theme=light"
+    alt="Frontend development technologies"
+  >
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Framer_Motion-Animation-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion">
+  <img src="https://img.shields.io/badge/React_Router-Routing-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router">
+  <img src="https://img.shields.io/badge/Socket.IO-Realtime-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO">
+</p>
+
+### Backend & API Development
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=php,nodejs,python,laravel&theme=light"
+    alt="Backend development technologies"
+  >
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter 4">
+  <img src="https://img.shields.io/badge/REST_API-Architecture-334155?style=flat-square" alt="REST APIs">
+  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/Background_Workers-Queue_Processing-475569?style=flat-square" alt="Background Workers">
+</p>
+
+### Databases, Search & Knowledge Systems
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=light"
+    alt="Database technologies"
+  >
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB">
+  <img src="https://img.shields.io/badge/Qdrant-Vector_Database-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant">
+  <img src="https://img.shields.io/badge/Neo4j-Knowledge_Graph-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j">
+</p>
+
+### Cloud, Infrastructure & DevOps
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=docker,nginx,linux,aws,cloudflare,firebase,git,github,githubactions&theme=light"
+    alt="Cloud and infrastructure technologies"
+  >
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker_Compose-Orchestration-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose">
+  <img src="https://img.shields.io/badge/Amazon_S3-Object_Storage-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3">
+  <img src="https://img.shields.io/badge/Cloudflare_Tunnel-Networking-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Tunnel">
+  <img src="https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+</p>
+
+### AI, RAG & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini-Generative_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-2563EB?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/Embeddings-Vector_Search-7C3AED?style=flat-square" alt="Embeddings and Vector Search">
+  <img src="https://img.shields.io/badge/Knowledge_Graphs-Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Knowledge Graphs">
+  <img src="https://img.shields.io/badge/LLM_Agents-Automation-0F172A?style=flat-square" alt="LLM Agents">
+</p>
+
+### Product Services & Integrations
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-Analytics_·_Crashlytics_·_Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Google_Mobile_Ads-Monetization-4285F4?style=flat-square&logo=googleads&logoColor=white" alt="Google Mobile Ads">
+  <img src="https://img.shields.io/badge/In--App_Purchases-App_Store_·_Google_Play-334155?style=flat-square" alt="In-App Purchases">
+  <img src="https://img.shields.io/badge/İyzico-Payment_Integration-1E64F0?style=flat-square" alt="İyzico">
+  <img src="https://img.shields.io/badge/Apple_·_Google_Sign--In-Authentication-000000?style=flat-square&logo=apple&logoColor=white" alt="Apple and Google Sign-In">
+</p>
+
+### Testing & Quality
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter_Test-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Test">
+  <img src="https://img.shields.io/badge/PHPUnit-Testing-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHPUnit">
+  <img src="https://img.shields.io/badge/Static_Analysis-Linting-475569?style=flat-square" alt="Static Analysis">
+  <img src="https://img.shields.io/badge/Performance-Profiling-0F766E?style=flat-square" alt="Performance Profiling">
 </p>
 
 ### Core Areas
 
-| Area             | Technologies                                              |
-| ---------------- | --------------------------------------------------------- |
-| Mobile           | Flutter, Dart, Android, iOS                               |
-| Game Development | Unity, C#, Canvas, interactive systems                    |
-| Frontend         | React, TypeScript, JavaScript, HTML, CSS                  |
-| Backend          | PHP, Laravel, Node.js, Python, REST APIs                  |
-| Data             | MySQL, Redis, relational database design                  |
-| Infrastructure   | Linux, Docker, Git, server administration                 |
-| Product Systems  | Payments, advertising, analytics, authentication          |
-| AI & Automation  | LLM integrations, RAG, agent systems, workflow automation |
+| Area | Technologies |
+|---|---|
+| Mobile Applications | Flutter, Dart, Android, iOS, secure local storage, push notifications |
+| Game Development | Flame, Forge2D, Unity, C#, physics systems, audio and asset pipelines |
+| State & Navigation | Riverpod, GoRouter, custom application architecture |
+| Frontend | React, TypeScript, JavaScript, Vite, Tailwind CSS, Framer Motion |
+| Backend | PHP 8, CodeIgniter 4, Laravel, Node.js, Python, REST APIs, background workers |
+| Realtime Systems | Socket.IO, event-driven communication, notification systems |
+| Relational Data | PostgreSQL, MySQL, MariaDB, schema design and migrations |
+| Caching & Queues | Redis, asynchronous workers, scheduled jobs |
+| AI & Knowledge | Gemini API, RAG, embeddings, Qdrant, Neo4j, knowledge graphs |
+| Cloud & Storage | Docker, Nginx, Linux, AWS S3, Cloudflare, Firebase |
+| Product Integrations | Ads, analytics, crash reporting, payments, IAP and authentication |
+| Testing | Flutter Test, PHPUnit, linting and performance validation |
 
 ---
 
