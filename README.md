@@ -58,6 +58,45 @@ Mobile games are developed and published under [**Mobiza Games**](https://mobiza
 <table width="100%" cellpadding="16" cellspacing="0">
   <tr>
     <td width="144" align="center" valign="middle">
+      <a href="https://mobizagames.com">
+        <img
+          src="https://mobizagames.com/assets/fresh-drop-icon-660.webp"
+          width="104"
+          height="104"
+          alt="Fresh Drop: Triple Match"
+        >
+      </a>
+    </td>
+    <td valign="middle">
+      <h3>Fresh Drop: Triple Match</h3>
+      <p><em>Tap, Drop & Match 3</em></p>
+      <p>
+        Tap fruits and vegetables, drop them onto the scale, and match 3 before space runs out.
+        Plan around ice, chains, crates, locks, nets, mystery bags, and the clock.
+      </p>
+      <p>
+        <strong>Development areas:</strong><br>
+        Gameplay systems, level generation, progression, live operations,
+        advertising, in-app purchases, analytics and administration tools.
+      </p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.mobiza.freshdrop">
+          <img src="https://img.shields.io/badge/Google_Play-Get_it-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Fresh Drop on Google Play">
+        </a>
+        &nbsp;
+        <a href="https://apps.apple.com/app/id6803232505">
+          <img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="Fresh Drop on the App Store">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%" cellpadding="16" cellspacing="0">
+  <tr>
+    <td width="144" align="center" valign="middle">
       <a href="https://bistrobounce.com">
         <img
           src="https://mobizagames.com/assets/bistro-bounce-icon-660.webp"
