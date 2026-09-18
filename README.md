@@ -1,7 +1,7 @@
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:2563EB&text=Enes%20Babekoğlu&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Founder%20%7C%20Product-Focused%20Software%20Developer&descAlignY=59&descSize=17"
-/>
+/> 
 
 <p align="center">
   I build mobile games, scalable web platforms and production-ready digital products.
