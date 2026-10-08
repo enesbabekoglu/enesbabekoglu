@@ -43,7 +43,7 @@ Idea → Product Design → Architecture → Development → Deployment → Grow
 - Build mobile applications with Flutter and Dart
 - Develop mobile games and interactive experiences
 - Design scalable backend systems and REST APIs
-- Create modern web platforms and administration panels
+- Create modern web platforms, SaaS products and administration panels
 - Model databases, caching layers and business processes
 - Integrate analytics, advertising, payments and live operations
 - Build AI-assisted products, automation systems and internal tools
@@ -54,6 +54,7 @@ Idea → Product Design → Architecture → Development → Deployment → Grow
 ## Products
 
 Mobile games are developed and published under [**Mobiza Games**](https://mobizagames.com).
+SaaS platforms such as **MenuFly** and **Planfly** are developed under [**Mobiza Teknoloji**](https://mobiza.com.tr).
 
 <table width="100%" cellpadding="16" cellspacing="0">
   <tr>
@@ -212,6 +213,44 @@ Mobile games are developed and published under [**Mobiza Games**](https://mobiza
   </tr>
 </table>
 
+<br>
+
+<table width="100%" cellpadding="16" cellspacing="0">
+  <tr>
+    <td width="144" align="center" valign="middle">
+      <a href="https://planfly.com.tr">
+        <img
+          src="https://planfly.com.tr/icons/pwa-icon-512.png"
+          width="104"
+          height="104"
+          alt="Planfly"
+        >
+      </a>
+    </td>
+    <td valign="middle">
+      <h3>Planfly</h3>
+      <p><em>Online booking, team calendars and reminders, simplified.</em></p>
+      <p>
+        An online appointment and booking platform for appointment-based businesses,
+        from hair salons and clinics to therapists and fitness studios.
+        Customers book without creating an account, while businesses manage
+        team calendars, staff hours, packages, reminders and reports in one panel.
+      </p>
+      <p>
+        <strong>Development areas:</strong><br>
+        Multi-tenant SaaS architecture, public booking pages, team calendars,
+        staff scheduling, email and SMS reminders, subscription billing,
+        embeddable widgets, reviews, reporting and an AI chat assistant.
+      </p>
+      <p>
+        <a href="https://planfly.com.tr">
+          <img src="https://img.shields.io/badge/Website-Explore-3F6F9C?style=flat-square&logo=googlechrome&logoColor=white" alt="Planfly Website">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Technology Stack
@@ -242,6 +281,7 @@ Mobile games are developed and published under [**Mobiza Games**](https://mobiza
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Inertia.js-Modern_Monolith-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js">
   <img src="https://img.shields.io/badge/Framer_Motion-Animation-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion">
   <img src="https://img.shields.io/badge/React_Router-Routing-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router">
   <img src="https://img.shields.io/badge/Socket.IO-Realtime-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO">
@@ -258,6 +298,7 @@ Mobile games are developed and published under [**Mobiza Games**](https://mobiza
 
 <p>
   <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter 4">
+  <img src="https://img.shields.io/badge/Laravel_Octane-FrankenPHP-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Octane and FrankenPHP">
   <img src="https://img.shields.io/badge/REST_API-Architecture-334155?style=flat-square" alt="REST APIs">
   <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
   <img src="https://img.shields.io/badge/Background_Workers-Queue_Processing-475569?style=flat-square" alt="Background Workers">
@@ -290,6 +331,7 @@ Mobile games are developed and published under [**Mobiza Games**](https://mobiza
 <p>
   <img src="https://img.shields.io/badge/Docker_Compose-Orchestration-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose">
   <img src="https://img.shields.io/badge/Amazon_S3-Object_Storage-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3">
+  <img src="https://img.shields.io/badge/Cloudflare_R2-Object_Storage-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare R2">
   <img src="https://img.shields.io/badge/Cloudflare_Tunnel-Networking-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Tunnel">
   <img src="https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
 </p>
@@ -298,6 +340,7 @@ Mobile games are developed and published under [**Mobiza Games**](https://mobiza
 
 <p>
   <img src="https://img.shields.io/badge/Google_Gemini-Generative_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/Multi--Provider_LLMs-OpenAI_·_Claude_·_Gemini_·_Grok-334155?style=flat-square" alt="Multi-provider LLM integrations">
   <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-2563EB?style=flat-square" alt="RAG">
   <img src="https://img.shields.io/badge/Embeddings-Vector_Search-7C3AED?style=flat-square" alt="Embeddings and Vector Search">
   <img src="https://img.shields.io/badge/Knowledge_Graphs-Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Knowledge Graphs">
@@ -310,7 +353,8 @@ Mobile games are developed and published under [**Mobiza Games**](https://mobiza
   <img src="https://img.shields.io/badge/Firebase-Analytics_·_Crashlytics_·_Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/Google_Mobile_Ads-Monetization-4285F4?style=flat-square&logo=googleads&logoColor=white" alt="Google Mobile Ads">
   <img src="https://img.shields.io/badge/In--App_Purchases-App_Store_·_Google_Play-334155?style=flat-square" alt="In-App Purchases">
-  <img src="https://img.shields.io/badge/İyzico-Payment_Integration-1E64F0?style=flat-square" alt="İyzico">
+  <img src="https://img.shields.io/badge/İyzico-Payments_·_Subscriptions-1E64F0?style=flat-square" alt="İyzico">
+  <img src="https://img.shields.io/badge/Email_·_SMS-Automated_Reminders-0F766E?style=flat-square" alt="Email and SMS reminders">
   <img src="https://img.shields.io/badge/Apple_·_Google_Sign--In-Authentication-000000?style=flat-square&logo=apple&logoColor=white" alt="Apple and Google Sign-In">
 </p>
 
@@ -330,14 +374,15 @@ Mobile games are developed and published under [**Mobiza Games**](https://mobiza
 | Mobile Applications | Flutter, Dart, Android, iOS, secure local storage, push notifications |
 | Game Development | Flame, Forge2D, Unity, C#, physics systems, audio and asset pipelines |
 | State & Navigation | Riverpod, GoRouter, custom application architecture |
-| Frontend | React, TypeScript, JavaScript, Vite, Tailwind CSS, Framer Motion |
-| Backend | PHP 8, CodeIgniter 4, Laravel, Node.js, Python, REST APIs, background workers |
+| Frontend | React, TypeScript, JavaScript, Inertia.js, Vite, Tailwind CSS, Framer Motion |
+| Backend | PHP 8, CodeIgniter 4, Laravel, Laravel Octane, Node.js, Python, REST APIs, background workers |
+| SaaS Platforms | Multi-tenant architecture, subscription billing, booking engines, embeddable widgets, admin panels |
 | Realtime Systems | Socket.IO, event-driven communication, notification systems |
 | Relational Data | PostgreSQL, MySQL, MariaDB, schema design and migrations |
 | Caching & Queues | Redis, asynchronous workers, scheduled jobs |
-| AI & Knowledge | Gemini API, RAG, embeddings, Qdrant, Neo4j, knowledge graphs |
-| Cloud & Storage | Docker, Nginx, Linux, AWS S3, Cloudflare, Firebase |
-| Product Integrations | Ads, analytics, crash reporting, payments, IAP and authentication |
+| AI & Knowledge | Gemini API, OpenAI, Claude, RAG, embeddings, Qdrant, Neo4j, knowledge graphs |
+| Cloud & Storage | Docker, Nginx, Linux, AWS S3, Cloudflare R2, Cloudflare, Firebase |
+| Product Integrations | Ads, analytics, crash reporting, payments, subscriptions, IAP, authentication, email and SMS |
 | Testing | Flutter Test, PHPUnit, linting and performance validation |
 
 ---
@@ -350,7 +395,7 @@ Game Systems               Backend Development
 Scalable APIs              Database Design
 Performance Optimization   Developer Tools
 Artificial Intelligence    SaaS Platforms
-Security                    Live Operations
+Security                   Live Operations
 ```
 
 ---
@@ -358,6 +403,7 @@ Security                    Live Operations
 ## Currently Building
 
 - Preparing **Bistro Bounce** for its global mobile release
+- Launching **Planfly**, an online booking platform for service businesses in Türkiye
 - Developing the next generation of **Sim of World**
 - Expanding Mobiza's mobile game and software ecosystem
 - Building reusable infrastructure for games and SaaS products
@@ -428,6 +474,9 @@ For partnerships, product development and professional inquiries:
   </a>
   <a href="https://menufly.com.tr">
     <img src="https://img.shields.io/badge/Product-menufly.com.tr-16A34A?style=flat-square&logo=googlechrome&logoColor=white" alt="MenuFly">
+  </a>
+  <a href="https://planfly.com.tr">
+    <img src="https://img.shields.io/badge/Product-planfly.com.tr-3F6F9C?style=flat-square&logo=googlechrome&logoColor=white" alt="Planfly">
   </a>
 </p>
 
