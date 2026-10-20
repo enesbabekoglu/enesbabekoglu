@@ -61,6 +61,47 @@ SaaS platforms such as **MenuFly** and **Planfly** are developed under [**Mobiza
     <td width="144" align="center" valign="middle">
       <a href="https://mobizagames.com">
         <img
+          src="https://mobizagames.com/assets/storage-auction-tycoon-icon-660.webp"
+          width="104"
+          height="104"
+          alt="Storage Auction Tycoon"
+        >
+      </a>
+    </td>
+    <td valign="middle">
+      <h3>Storage Auction Tycoon</h3>
+      <p><em>Bid on storage, win the treasure.</em></p>
+      <p>
+        Bid on locked storage units, dig through boxes for hidden treasures, restore and appraise
+        your finds, then haggle with customers to grow your shop, complete collections and become
+        the top dealer across 10 cities.
+      </p>
+      <p>
+        <strong>Development areas:</strong><br>
+        Godot 4 and GDScript, server-authoritative economy, deterministic game rules shared by
+        client and server, a real-time player auction house, live operations, advertising,
+        in-app purchases, analytics, 16-language localization and administration tools.
+      </p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.mobiza.storageauctiontycoon">
+          <img src="https://img.shields.io/badge/Google_Play-Get_it-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Storage Auction Tycoon on Google Play">
+        </a>
+        &nbsp;
+        <a href="https://apps.apple.com/app/id6822402478">
+          <img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="Storage Auction Tycoon on the App Store">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%" cellpadding="16" cellspacing="0">
+  <tr>
+    <td width="144" align="center" valign="middle">
+      <a href="https://mobizagames.com">
+        <img
           src="https://mobizagames.com/assets/fresh-drop-icon-660.webp"
           width="104"
           height="104"
@@ -259,7 +300,7 @@ SaaS platforms such as **MenuFly** and **Planfly** are developed under [**Mobiza
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=flutter,dart,unity,cs,androidstudio&theme=light"
+    src="https://skillicons.dev/icons?i=flutter,dart,godot,unity,cs,androidstudio&theme=light"
     alt="Mobile and game development technologies"
   >
 </p>
@@ -372,7 +413,7 @@ SaaS platforms such as **MenuFly** and **Planfly** are developed under [**Mobiza
 | Area | Technologies |
 |---|---|
 | Mobile Applications | Flutter, Dart, Android, iOS, secure local storage, push notifications |
-| Game Development | Flame, Forge2D, Unity, C#, physics systems, audio and asset pipelines |
+| Game Development | Godot 4, GDScript, Flame, Forge2D, Unity, C#, physics systems, audio and asset pipelines |
 | State & Navigation | Riverpod, GoRouter, custom application architecture |
 | Frontend | React, TypeScript, JavaScript, Inertia.js, Vite, Tailwind CSS, Framer Motion |
 | Backend | PHP 8, CodeIgniter 4, Laravel, Laravel Octane, Node.js, Python, REST APIs, background workers |
@@ -402,6 +443,7 @@ Security                   Live Operations
 
 ## Currently Building
 
+- Launching **Storage Auction Tycoon** on Google Play and the App Store
 - Preparing **Bistro Bounce** for its global mobile release
 - Launching **Planfly**, an online booking platform for service businesses in Türkiye
 - Developing the next generation of **Sim of World**
