@@ -61,7 +61,7 @@ SaaS platforms such as **MenuFly** and **Planfly** are developed under [**Mobiza
     <td width="144" align="center" valign="middle">
       <a href="https://mobizagames.com">
         <img
-          src="https://mobizagames.com/assets/storage-auction-tycoon-icon-660.webp"
+          src="https://mobizagames.com/assets/storage-auction-tycoon-icon-v2-660.webp"
           width="104"
           height="104"
           alt="Storage Auction Tycoon"
